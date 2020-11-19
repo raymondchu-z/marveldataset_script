@@ -1,0 +1,108 @@
+Inland Supply Vessel 20
+Edible Oil Tanker 17
+Trailing Suction Hopper Dredger 31
+Sailing Vessel 14
+Floating Storage/production 27
+Tug 3
+Heavy Lift Vessel 17
+Patrol Vessel 13
+Fishery Support Vessel 22
+Inland Ro-ro Cargo Ship 23
+Tug/supply Vessel 17
+Lng Tanker 10
+Floating Sheerleg 17
+Vehicles Carrier 16
+Floating Crane 14
+Ro-ro/container Carrier 23
+Heavy Load Carrier 18
+Hydrofoil 9
+Co2 Tanker 10
+Fishing Vessel 14
+Oil Products Tanker 19
+Pallet Carrier 14
+Tender 6
+Buoy-laying Vessel 18
+Wine Tanker 11
+Hopper Barge 12
+Ore Carrier 11
+Pusher Tug 10
+Self Discharging Bulk Carrier 29
+Offshore Supply Ship 20
+Oil/chemical Tanker 19
+Logistics Naval Vessel 22
+Replenishment Vessel 20
+Suction Dredger 15
+Anchor Handling Vessel 22
+Bunkering Tanker 16
+Training Ship 13
+Cargo/containership 19
+Accommodation Ship 18
+Naval/naval Auxiliary Vessel 28
+Tanker 6
+Platform 8
+Multi Purpose Offshore Vessel 29
+Container Ship 14
+Cement Carrier 14
+Ro-ro/passenger Ship 20
+Fire Fighting Vessel 20
+Drill Ship 10
+Pipe Burying Vessel 19
+Yacht 5
+Tug/ice Breaker 15
+Grab Hopper Dredger 19
+Fruit Juice Tanker 18
+Livestock Carrier 17
+Wood Chips Carrier 18
+Bulk Carrier 12
+Factory Trawler 15
+Pilot Ship 10
+Research/survey Vessel 22
+Passengers Ship 15
+Naval Patrol Vessel 19
+Inland Passengers Ship 22
+Trawler 7
+Passenger/cargo Ship 20
+Barge Carrier 13
+Trenching Support Vessel 24
+Inland Cargo 12
+Fishery Patrol Vessel 21
+Naval Salvage Vessel 20
+Construction Support Vessel 27
+Lpg Tanker 10
+Timber Carrier 14
+Pipe Layer 10
+Theatre Vessel 14
+General Cargo 13
+Standby Safety Vessel 21
+Inland Tanker 13
+Chemical Tanker 15
+Dredger 7
+Pipe Layer Platform 19
+Offshore Construction Jack Up 29
+Work Vessel 11
+Hopper Dredger 14
+Articulated Pusher Tug 22
+Combat Vessel 13
+Rail/vehicles Carrier 21
+Exhibition Ship 15
+Museum Ship 11
+Obo Carrier 11
+Crane Ship 10
+Tank Barge 10
+Cargo 5
+Asphalt/bitumen Tanker 22
+Supply Vessel 13
+Icebreaker 10
+Naval Research Vessel 21
+Diving Support Vessel 21
+Reefer 6
+Crude Oil Tanker 16
+Pollution Control Vessel 24
+Shuttle Tanker 14
+Accommodation Vessel 20
+Ro-ro Cargo 11
+Deck Cargo Ship 15
+Cable Layer 11
+Motor Hopper 12
+Fishery Research Vessel 23
+Reefer/containership 20
